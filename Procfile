@@ -1,2 +1,1 @@
-web: ./layers/paketo-community_cargo/Cargo
-
+web: ./test
