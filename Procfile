@@ -1,2 +1,2 @@
-web: ./workspace/target/release/hello
+web: ./layers/paketo-community_cargo/Cargo/bin/hello
 
