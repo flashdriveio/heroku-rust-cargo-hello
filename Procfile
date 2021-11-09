@@ -1,1 +1,1 @@
-web: ./workspace/target
+web: ./target/release/hello
