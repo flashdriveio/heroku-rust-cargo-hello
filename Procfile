@@ -1,2 +1,2 @@
-web: .///workspace
+web: ./layers/paketo-community_cargo/Cargo
 
